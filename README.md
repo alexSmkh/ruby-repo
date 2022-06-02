@@ -11,7 +11,7 @@ Things you may want to cover:
 
 * Configurationfasfasfasfasfasf
 fasfafa
- fsfsfsfsffasfsfasfs
+ fsfsfsfsffasfsfasfsfasfasfasf
 * Database creation
 
 * Database initialization
